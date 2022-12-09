@@ -1,0 +1,12 @@
+.navbar {
+    margin-top: 20px;
+    background: rgb(182, 179, 179);
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar__link, a {
+    margin-right: 10px;
+}
